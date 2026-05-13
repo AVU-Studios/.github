@@ -3,7 +3,7 @@
 
 # AVU-Studios
 
-It doesn't matter if it works well, or if it runs fast. If everyone likes using it or working on it, then it truly works.
+*It doesn't matter if it works well, or if it runs fast. If everyone likes using it or working on it, then it truly works.*
 
 </div>
 
