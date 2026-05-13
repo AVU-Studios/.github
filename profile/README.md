@@ -1,5 +1,5 @@
 <div align="center">
-<img width="400" height="400" alt="531cc498f88cd433c845cece337d01a8" src="https://github.com/user-attachments/assets/84320c5a-0ace-483f-9eda-6f5f7c14ef20" />
+<img width="800" height="600" alt="AVU-Studios logo" src="https://github.com/user-attachments/assets/1d31a828-2afd-40ec-bdb1-fbe95e467d45" />
 
 # AVU-Studios
 
