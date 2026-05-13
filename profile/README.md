@@ -170,8 +170,8 @@ While our stack evolves depending on project needs, we commonly work with:
 ## Software Development
 
 * Python
-* C#
-* Node.js
+* C/C++
+* GPU Compute
 * Web frameworks
 * Database systems
 * Cloud infrastructure
